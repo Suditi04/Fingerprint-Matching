@@ -22,4 +22,4 @@ Have you ever wondered how detectives crack a case with just a smudged fingerpri
 ## **Results and Learnings**  
 From improving smudged fingerprints to matching altered ones, this project demonstrates the potential of biometrics in real-world applications like security and forensics. Dive into the repository and explore how fingerprint recognition systems work!  
 
-Check out the [detailed walkthrough]([https://medium.com/@your-article-link](https://medium.com/@suditi/i-made-fingerprint-matching-instant-and-you-can-too-8f11a43c200e)) and watch the [video demo](https://youtu.be/EbAGXAU7doA).
+Check out the [detailed walkthrough]([https://medium.com/@your-article-link](https://medium.com/@suditi/i-made-fingerprint-matching-instant-and-you-can-too-8f11a43c200e) and watch the [video demo](https://youtu.be/EbAGXAU7doA).
