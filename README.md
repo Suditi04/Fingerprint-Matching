@@ -1,5 +1,4 @@
 # Fingerprint-Matching
-# Fingerprint-Matching Repository Overview
 
 **Unlocking the Power of Fingerprint Recognition with Python**  
 Have you ever wondered how detectives crack a case with just a smudged fingerprint? Let’s dive into the world of fingerprint recognition! This project showcases a robust fingerprint-matching system capable of identifying altered and partial prints. Using Python, OpenCV, and the SIFT algorithm, I tackled the challenges of biometric identification and built a system that delivers instant, accurate results.
